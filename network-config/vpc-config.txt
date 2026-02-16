@@ -1,0 +1,8 @@
+VPC Name: bootcamp-vpc
+Region: eu-west-2
+CIDR Block: 10.0.0.0/16
+
+Description:
+This VPC provides isolated networking for a production-style environment.
+It supports public and private subnet segmentation across multiple
+Availability Zones to enable high availability and controlled internet access.

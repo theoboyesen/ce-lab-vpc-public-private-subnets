@@ -1,0 +1,20 @@
+Availability Zone: eu-west-2a
+
+- Subnet Name: public-subnet-1a
+  CIDR: 10.0.1.0/24
+  Type: Public
+
+- Subnet Name: private-subnet-1a
+  CIDR: 10.0.11.0/24
+  Type: Private
+
+
+Availability Zone: eu-west-2b
+
+- Subnet Name: public-subnet-1b
+  CIDR: 10.0.2.0/24
+  Type: Public
+
+- Subnet Name: private-subnet-1b
+  CIDR: 10.0.12.0/24
+  Type: Private
